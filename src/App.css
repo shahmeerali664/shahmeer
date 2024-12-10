@@ -1,0 +1,53 @@
+
+
+.wel{
+ text-align: center;
+ background-color: blueviolet;
+ 
+}
+.bar{
+  
+  text-justify: auto;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+
+
+
+
+.container{
+  background-color: rgb(186, 196, 218);
+   
+
+}
+.row{
+  color: black;
+  
+}
+.p2{
+  margin: 10px ;
+}
+.g{
+ width: auto;
+ height: auto; 
+}
+.glyphicon{
+  display: block; 
+text-align: flex;
+padding: 16px; 
+color: black; 
+font-size: 36px; 
+}
+.glyphicon-envelope{
+  display: block; 
+text-align: flex;  
+color: black; 
+font-size: 36px; 
+}
+
+  
+
+
